@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+
+
+
+
+body {
+  text-align: center
+  
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active{
+    color: blue;
+}
+
+.avatar{
+  width: 300px;
+  
+}
+
+.info-text {
+    margin-left: 40px;
+}
+
+
+
+.info p {
+   margin: 0;
+   font-style: italic;
+   
+}
+
+.container {
+    max-width: 80%;
+    margin: auto;
+}
+
+.bg-yellow{
+    background: #fff9dc;
+}
+
+.bg-green{
+    background: #e5ffe7;
+}
+
+.bg-grey{
+    background: #ee6363;
+}
+
+.bg-blue{
+    background: #235a74;
+}
+
+.card {
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+.card h2 {
+    margin-bottom: 10px;
+}
+
+.list{
+    padding: 0 20px;
+}
+
+.list li {
+    color: #86898f;
+    margin-bottom: 10px;
+}
+
+.contact h2{
+    text-align: center;
+}
